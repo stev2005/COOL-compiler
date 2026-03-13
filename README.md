@@ -1,5 +1,6 @@
 # COOL-compiler
 **Authors:** Stefan Stoyanov (me), Eli Trumbeva (@EliTrumbeva)
+
 As simple as possible working compiler for the programming language COOL (Classroom Objected Oriented Language) in terms of functionality. We coded it in order to complete a university course for compilers at Sofia University, Faculty of Mathematics and Informatics. The course in SU is based on the Standford course CS143. However, our task was to built compiler which genereate RISC-V assembly code compared to CS143's task to generate MIPS assembly code. 
 
 In addition, our code can only work with template code which can be found on https://github.com/Aristotelis2002/uni-coolc.
